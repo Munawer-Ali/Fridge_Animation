@@ -2,20 +2,7 @@
 
 Flutter app with a fridge-themed UI: video playback, scrollable food picker, “add to fridge” flow with quantities, and item overlays with nutrition tooltips.
 
-## Quick start
-
-```bash
-cd frige_animation
-flutter pub get
-flutter run
-```
-
-## Dependencies
-
-| Package        | Role                          |
-|----------------|-------------------------------|
-| `video_player` | Fridge opening / interior video |
-| `cupertino_icons` | iOS-style icons            |
+![Uploading video.gif…]()
 
 ## Project structure
 
@@ -45,6 +32,14 @@ lib/
     ├── add_to_fridge_item_tile.dart
     └── bottom_nav_bar.dart
 ```
+
+## Dependencies
+
+| Package        | Role                          |
+|----------------|-------------------------------|
+| `video_player` | Fridge opening / interior video |
+| `cupertino_icons` | iOS-style icons            |
+
 
 ## Assets
 
