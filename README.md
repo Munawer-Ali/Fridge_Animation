@@ -2,7 +2,7 @@
 
 Flutter app with a fridge-themed UI: video playback, scrollable food picker, “add to fridge” flow with quantities, and item overlays with nutrition tooltips.
 
-![Uploading video.gif…]()
+![video](https://github.com/user-attachments/assets/02bc21ed-4cd2-46e1-953e-cb86ab541188)
 
 ## Project structure
 
